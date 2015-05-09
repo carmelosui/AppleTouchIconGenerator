@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0BF055EE-3DF6-40F4-A836-51960ACA20EA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AppleTouchIconGenerator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9B3C3FB581DA49DF77F255E2EF71A033E1CACD32</key>
+		<string>https://github.com/carmelosui/AppleTouchIconGenerator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AppleTouchIconGenerator.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9B3C3FB581DA49DF77F255E2EF71A033E1CACD32</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/carmelosui/AppleTouchIconGenerator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9B3C3FB581DA49DF77F255E2EF71A033E1CACD32</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9B3C3FB581DA49DF77F255E2EF71A033E1CACD32</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AppleTouchIconGenerator</string>
+		</dict>
+	</array>
+</dict>
+</plist>
