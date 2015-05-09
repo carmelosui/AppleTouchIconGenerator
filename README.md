@@ -3,6 +3,7 @@ This is a mac command line tool to generate the apple-touch-icon and its HTML co
 The generated files are like this:  
 ![alt tag](generated.png)  
 By providing an image as the source icon, this tool will generate png icons with different sizes you specified, then it will generate a text file contain the HTML code like this which you can paste to your page immediately.  
+By the way, you can specify the path of the hrefs in the code.  
 ```HTML
 <link rel="apple-touch-icon" sizes="57x57" href="/apple_touch_icon_57_57.png" />
 <link rel="apple-touch-icon" sizes="114x114" href="/apple_touch_icon_114_114.png" />
